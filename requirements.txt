@@ -1,0 +1,12 @@
+certifi==2021.10.8
+chardet==4.0.0
+idna==3.3
+pyTelegramBotAPI==4.2.2
+requests==2.26.0
+six==1.16.0
+urllib3==1.26.7
+selenium==4.1.0
+beautifulsoup4~=4.10.0
+
+webdriver-manager>=3.5.2
+multipledispatch~=0.6.0
